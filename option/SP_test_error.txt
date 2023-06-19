@@ -1,0 +1,1 @@
+VI_ERROR_INTF_NUM_NCONFIG (-1073807195): The interface type is valid but the specified interface number is not configured.
